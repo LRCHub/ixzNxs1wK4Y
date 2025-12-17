@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Wasted Nights",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-17T07:13:35.056462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/01_Wasted_Days_And_Wasted_Nights_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/02_Wasted_Days_And_Wasted_Nights_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wasted Nights",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Wasted_Nights_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wasted Days and Wasted Nights",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/04_Wasted_Days_and_Wasted_Nights_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/05_Wasted_Days_And_Wasted_Nights_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/06_Wasted_Days_And_Wasted_Nights_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/07_Wasted_Days_And_Wasted_Nights_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Arvingarna",
+      "has_synced": false,
+      "path": "select/08_Wasted_Days_And_Wasted_Nights_Arvingarna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wasted Nights",
+      "artist": "Acceptance",
+      "has_synced": true,
+      "path": "select/09_Wasted_Nights_Acceptance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Leann Rimes",
+      "has_synced": true,
+      "path": "select/10_Wasted_Days_And_Wasted_Nights_Leann_Rimes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wasted Nights",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Wasted_Nights_ONE_OK_ROCK.txt"
+    }
+  ]
+}
